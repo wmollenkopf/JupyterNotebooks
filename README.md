@@ -3,3 +3,4 @@ A repository to store/showcase various Jupyter Notebooks. Usually dealing with A
 
 ## Finance Journals
 * [Stock Reinforcement Learning](./finance/reinforcement_learnining.ipynb)
+* [Company Name Similarity Analysis](./finance/company_name_similarity_analysis.ipynb)
